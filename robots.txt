@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rezaalaeddini.github.io/sitemap.xml

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: a post with image galleries
-date: 2024-12-04 01:59:00
+title: Image gallery under construction
+date: 2025-03-04 01:59:00
 description: this is what included image galleries could look like
 tags: formatting images
 categories: sample-posts
@@ -15,13 +15,24 @@ images:
 
 The images in this post are all zoomable, arranged into different mini-galleries using different libraries.
 
-## [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)
+## [Campus 2025](https://lokeshdhakar.com/projects/lightbox2/)
 
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
+<a href="https://images.unsplash.com/photo-1532094349884-543bc11b234d" data-lightbox="roadtrip">
+  <img src="https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200" />
+</a>
+<a href="https://images.unsplash.com/photo-1616004655123-818cbd4b3143" data-lightbox="roadtrip">
+  <img src="https://images.unsplash.com/photo-1616004655123-818cbd4b3143?w=200" />
+</a>
+<a href="https://images.unsplash.com/photo-1706359563992-9823e4a6f712?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" data-lightbox="roadtrip">
+  <img src="https://images.unsplash.com/photo-1706359563992-9823e4a6f712?w=200" alt="New Image" />
+</a>
+<a href="https://images.unsplash.com/photo-1519389950473-47ba0277781c" data-lightbox="roadtrip">
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=200" alt="People Sitting at Computers" />
+</a>
 
 ---
+
+The images in this post are all zoomable, arranged into different mini-galleries using different libraries.
 
 ## [PhotoSwipe](https://photoswipe.com/)
 

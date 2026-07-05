@@ -4,6 +4,7 @@ gem 'jekyll'
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
+    gem 'wdm', '>= 0.1.0' if Gem.win_platform?  # Windows support
     gem 'jekyll-archives-v2'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
@@ -36,3 +37,4 @@ group :other_plugins do
     # gem 'unicode_utils' -- should be already installed by jekyll
     # gem 'webrick' -- should be already installed by jekyll
 end
+gem "stringio", ">= 0.0.0", platforms: :ruby

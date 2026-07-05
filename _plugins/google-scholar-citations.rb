@@ -8,7 +8,7 @@ end
 
 module Jekyll
   class GoogleScholarCitationsTag < Liquid::Tag
-    Citations = { }
+    Citations = {}
 
     def initialize(tag_name, params, tokens)
       super

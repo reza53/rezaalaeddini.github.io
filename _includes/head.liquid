@@ -187,3 +187,18 @@
 {% if page.tikzjax %}
   <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
 {% endif %}
+<!-- Distill & KaTeX support via CDN -->
+<script src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js" defer
+        onload="renderMathInElement(document.body);"></script>
+
+<script src="https://distill.pub/template.v2.js"></script>
+<script src="https://distill.pub/transforms.v2.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (window.document.querySelector("d-article")) {
+      Distill.renderAll();
+    }
+  });
+</script>

@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Reza Alaeddini",
+    "label": "Forensic Biologist",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "ralaeddini@ysu.edu",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://rezaalaeddini.github.io",
+    "summary": "PhD in Molecular Biology with 10 years of experience in the field. Expert in DNA analysis. Strong background in molecular biology and genetics.",
     "location": {
       "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "postalCode": "OH 94115",
+      "city": "Youngstown",
       "countryCode": "US",
-      "region": "California"
+      "region": "Ohio"
     },
     "profiles": [
       {
@@ -24,47 +24,47 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Youngstown State University",
+      "position": "Assistant Professor of Forensic Science",
+      "url": "https://YSU.edu",
+      "startDate": "2025-08-18",
+      "endDate": "Ongoing",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": ["Forensic DNA Analysis"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "Columbia Public Schools",
+      "location": "Columbia, Missouri",
+      "position": "Guest Speaker",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "startDate": "2022-08-01",
+      "endDate": "2014-05-01",
+      "summary": "Forensic Science casual speaker on Crime Scene Investigation and Blood Spatter Analysis.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Sydney, Australia",
+      "location": "Sydney, Australia",
+      "url": "https://www.Sydney.edu/",
+      "area": "Bio-molecular Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2004-03-04",
+      "endDate": "2010-09-15",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Human Bone DNA Analysis"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "Best Review Paper in Forensic Science",
+      "date": "2010-11-01",
+      "awarder": "Forensic Science Society of Australia",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "For Forensic implications of genetic analyses from degraded DNA in Forensic Science International Genetics.'"
     }
   ],
   "certificates": [

@@ -425,15 +425,15 @@ ninja.data = [{
             },},{id: "news-aafs-2027-orlando-florida-february-15-20-2027-orlando-rosen-shingle-creek-hotel-amp-amp-convention-center-sparkles-penguin",
           title: 'AAFS 2027 Orlando, Florida February 15–20, 2027 — Orlando Rosen Shingle Creek Hotel...',
           description: "",
-          section: "News",},{id: "news-the-syracuse-rape-crisis-that-was-ignored",
-          title: 'The Syracuse Rape Crisis that was Ignored',
-          description: "",
           section: "News",},{id: "news-age-estimation-from-crime-scene-samples",
           title: 'Age Estimation from Crime Scene Samples',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-short-tandem-repeats",
+            },},{id: "news-the-syracuse-rape-crisis-that-was-ignored",
+          title: 'The Syracuse Rape Crisis that was Ignored',
+          description: "",
+          section: "News",},{id: "projects-short-tandem-repeats",
           title: 'Short Tandem Repeats',
           description: "",
           section: "Projects",handler: () => {

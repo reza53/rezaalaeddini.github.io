@@ -428,12 +428,10 @@ ninja.data = [{
           section: "News",},{id: "news-the-syracuse-rape-crisis-that-was-ignored",
           title: 'The Syracuse Rape Crisis that was Ignored',
           description: "",
-          section: "News",},{id: "news-age-estimation-from-crime-scene-samples",
-          title: 'Age Estimation from Crime Scene Samples',
+          section: "News",},{id: "news-forensic-science-has-continuously-evolved-integrating-molecular-techniques-to-enhance-criminal-investigations-one-of-the-latest-advancements-is-age-estimation-from-biological-samples-left-at-crime-scenes-this-technique-leverages-dna-methylation-analysis-a-revolutionary-approach-that-allows-forensic-experts-to-estimate-the-chronological-age-of-an-unknown-individual-based-on-genetic-material-found-at-a-crime-scene-traditionally-forensic-age-estimation-relied-on-morphological-analyses-of-bones-and-teeth-however-such-methods-are-impractical-when-only-small-biological-traces-such-as-blood-semen-saliva-or-hair-are-available-the-introduction-of-molecular-age-prediction-models-has-transformed-forensic-investigations-by-enabling-age-estimation-from-minute-dna-traces-technologies-for-dna-methylation-analysis-pyrosequencing-mass-spectrometry-epityper-single-base-extension-sbe-massively-parallel-sequencing-mps-by-analyzing-methylation-patterns-at-selected-cpg-loci-forensic-scientists-can-determine-an-individual-s-age-with-remarkable-accuracy-this-breakthrough-aids-law-enforcement-by-narrowing-down-suspect-pools-prioritizing-investigative-leads-and-reconstructing-missing-persons-profiles-the-practical-applications-of-this-technology-extend-beyond-criminal-investigations-it-can-assist-in-identifying-disaster-victims-resolving-immigration-cases-and-enhancing-forensic-anthropology-research-despite-its-promise-challenges-such-as-sample-degradation-inter-population-differences-and-low-dna-input-requirements-remain-areas-of-active-research-dna-methylation-a-natural-epigenetic-process-that-alters-gene-expression-changes-predictably-with-age-at-specific-genomic-sites-as-forensic-genetics-advances-dna-methylation-based-age-estimation-is-set-to-become-a-standard-tool-in-forensic-casework-providing-critical-intelligence-to-law-enforcement-and-reinforcing-the-pursuit-of-justice-through-science",
+          title: 'Forensic science has continuously evolved, integrating molecular techniques to enhance criminal investigations. One...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-short-tandem-repeats",
+          section: "News",},{id: "projects-short-tandem-repeats",
           title: 'Short Tandem Repeats',
           description: "",
           section: "Projects",handler: () => {

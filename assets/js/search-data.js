@@ -7,63 +7,63 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/rezaalaeddini.github.io/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/rezaalaeddini.github.io/blog/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/rezaalaeddini.github.io/publications/";
           },
         },{id: "nav-forensic-projects",
           title: "Forensic Projects",
           description: "Available or Ongoing Forensic Projects",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/rezaalaeddini.github.io/projects/";
           },
         },{id: "nav-cv",
           title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/rezaalaeddini.github.io/cv/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Click on any course below to view the course details and topics.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/rezaalaeddini.github.io/teaching/";
           },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/rezaalaeddini.github.io/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                window.location.href = "/rezaalaeddini.github.io/books/";
               },
             },{id: "dropdown-blog",
               title: "blog",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "/rezaalaeddini.github.io/blog/";
               },
             },{id: "post-geometric-reconstruction-of-impact-spatter",
       
@@ -73,7 +73,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2026/code/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2026/code/";
         
       },
     },{id: "post-bayesian-approach-to-dna-mixture-interpretation",
@@ -84,7 +84,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2026/distill/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2026/distill/";
         
       },
     },{id: "post-forensic-dna-analysis",
@@ -95,7 +95,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2026/tabs/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2026/tabs/";
         
       },
     },{id: "post-image-gallery-under-construction",
@@ -106,7 +106,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/photo-gallery/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2025/photo-gallery/";
         
       },
     },{id: "post-beaumont-children-third-excavation-defrosting-cold-cases",
@@ -128,7 +128,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/typograms/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2024/typograms/";
         
       },
     },{id: "post-a-post-that-can-be-cited",
@@ -139,7 +139,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/post-citation/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2024/post-citation/";
         
       },
     },{id: "post-a-post-with-pseudo-code",
@@ -150,7 +150,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/pseudocode/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2024/pseudocode/";
         
       },
     },{id: "post-a-post-with-code-diff",
@@ -161,7 +161,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/code-diff/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2024/code-diff/";
         
       },
     },{id: "post-a-post-with-advanced-image-components",
@@ -172,7 +172,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/advanced-images/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2024/advanced-images/";
         
       },
     },{id: "post-a-post-with-vega-lite",
@@ -183,7 +183,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/vega-lite/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2024/vega-lite/";
         
       },
     },{id: "post-a-post-with-geojson",
@@ -194,7 +194,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/geojson-map/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2024/geojson-map/";
         
       },
     },{id: "post-a-post-with-echarts",
@@ -205,7 +205,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/echarts/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2024/echarts/";
         
       },
     },{id: "post-a-post-with-chart-js",
@@ -216,7 +216,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/chartjs/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2024/chartjs/";
         
       },
     },{id: "post-a-post-with-tikzjax",
@@ -227,7 +227,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/tikzjax/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2023/tikzjax/";
         
       },
     },{id: "post-a-post-with-bibliography",
@@ -238,7 +238,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/post-bibliography/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2023/post-bibliography/";
         
       },
     },{id: "post-a-post-with-jupyter-notebook",
@@ -249,7 +249,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/jupyter-notebook/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2023/jupyter-notebook/";
         
       },
     },{id: "post-a-post-with-custom-blockquotes",
@@ -260,7 +260,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/custom-blockquotes/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2023/custom-blockquotes/";
         
       },
     },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -271,7 +271,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/sidebar-table-of-contents/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2023/sidebar-table-of-contents/";
         
       },
     },{id: "post-a-post-with-audios",
@@ -282,7 +282,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/audios/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2023/audios/";
         
       },
     },{id: "post-a-post-with-videos",
@@ -293,7 +293,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/videos/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2023/videos/";
         
       },
     },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
@@ -304,7 +304,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/tables/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2023/tables/";
         
       },
     },{id: "post-a-post-with-table-of-contents",
@@ -315,7 +315,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/table-of-contents/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2023/table-of-contents/";
         
       },
     },{id: "post-a-post-with-giscus-comments",
@@ -326,7 +326,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2022/giscus-comments/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2022/giscus-comments/";
         
       },
     },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -348,7 +348,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/assets/pdf/example_pdf.pdf";
+          window.location.href = "/rezaalaeddini.github.io/assets/pdf/example_pdf.pdf";
         
       },
     },{id: "post-a-post-with-diagrams",
@@ -359,7 +359,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/diagrams/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2021/diagrams/";
         
       },
     },{id: "post-a-post-with-twitter",
@@ -370,7 +370,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2020/twitter/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2020/twitter/";
         
       },
     },{id: "post-a-post-with-disqus-comments",
@@ -381,7 +381,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/disqus-comments/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2015/disqus-comments/";
         
       },
     },{id: "post-a-post-with-math",
@@ -392,7 +392,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/math/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2015/math/";
         
       },
     },{id: "post-a-post-with-images",
@@ -403,7 +403,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/images/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2015/images/";
         
       },
     },{id: "post-a-post-with-formatting-and-links",
@@ -414,14 +414,14 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/formatting-and-links/";
+          window.location.href = "/rezaalaeddini.github.io/blog/2015/formatting-and-links/";
         
       },
     },{id: "books-the-need-for-a-research-culture-in-the-forensic-sciences",
           title: 'The Need for a Research Culture in the Forensic Sciences',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/rezaalaeddini.github.io/books/the_godfather/";
             },},{id: "news-aafs-2027-orlando-florida-february-15-20-2027-orlando-rosen-shingle-creek-hotel-amp-amp-convention-center-sparkles-penguin",
           title: 'AAFS 2027 Orlando, Florida February 15–20, 2027 — Orlando Rosen Shingle Creek Hotel...',
           description: "",
@@ -432,52 +432,52 @@ ninja.data = [{
           title: 'Age Estimation from Crime Scene Samples',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/rezaalaeddini.github.io/news/announcement_2/";
             },},{id: "projects-short-tandem-repeats",
           title: 'Short Tandem Repeats',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/rezaalaeddini.github.io/projects/1_project/";
             },},{id: "projects-crime-witness",
           title: 'Crime Witness',
           description: "Arley",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/rezaalaeddini.github.io/projects/2_project/";
             },},{id: "projects-hair-dyes",
           title: 'Hair Dyes',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/rezaalaeddini.github.io/projects/3_project/";
             },},{id: "projects-gait-analysis",
           title: 'Gait Analysis',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/rezaalaeddini.github.io/projects/4_project/";
             },},{id: "projects-forensic-diorama",
           title: 'Forensic Diorama',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/rezaalaeddini.github.io/projects/5_project/";
             },},{id: "projects-pollen-dispersal-in-statistics",
           title: 'Pollen Dispersal in Statistics',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/rezaalaeddini.github.io/projects/6_project/";
             },},{id: "projects-morphometric-analysis-of-blood-simulant-stains",
           title: 'Morphometric Analysis of Blood Simulant Stains',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/rezaalaeddini.github.io/projects/7_project/";
             },},{id: "projects-nail-polish",
           title: 'Nail Polish',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/rezaalaeddini.github.io/projects/8_project/";
             },},{id: "projects-microbial-trace-evidence",
           title: 'Microbial Trace Evidence',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/rezaalaeddini.github.io/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',

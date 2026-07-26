@@ -1,0 +1,3 @@
+Jeremy Lovato is a Masters student of Forensic Sciences at Youngstown State University (YSU) in Youngstown, Ohio. He earned his undergraduate degree in Chemistry at Youngstown State University.
+
+Jeremy is an active member of the American Academy of Forensic Sciences (AAFS) and the International Association for Identification (IAI).....

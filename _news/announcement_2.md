@@ -2,7 +2,7 @@
 layout: post
 title: Age Estimation from Crime Scene Samples
 date: 2026-09-07 16:11:00-0400
-inline: false
+inline: true
 related_posts: false
 permalink: /news/announcement_2/   # <-- ADD THIS LINE
 ---

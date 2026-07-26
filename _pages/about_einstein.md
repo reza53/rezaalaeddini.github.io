@@ -1,0 +1,5 @@
+Dr. Reza Alaeddini is an Assistant Professor of Forensic Sciences at Youngstown State University (YSU) in Youngstown, Ohio. He earned his undergraduate degree in Medicine in 1995 from SBMU and a Master’s in Forensic Medicine from Tehran University. In 2010, he completed his Ph.D. in Molecular Biology at the University of Sydney, Australia.
+
+Dr. Alaeddini has extensive experience in forensic biology, having worked in various forensic laboratories, including the Tarrant County Medical Examiner’s Office in Fort Worth, Texas, where he served as a senior analyst. He later transitioned into academia, teaching as an Adjunct Instructor at the University of North Texas in Dallas and as a Visiting Assistant Professor at Columbia College, Missouri, in 2022. In 2025, he joined the Department of Chemical and Biological Sciences at Youngstown State University.
+
+Dr. Alaeddini is an active member of the American Academy of Forensic Sciences (AAFS) and the International Association for Identification (IAI).

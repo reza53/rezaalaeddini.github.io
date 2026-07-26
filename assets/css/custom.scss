@@ -1,0 +1,40 @@
+@import
+  "variables",
+  "themes",
+  "layout",
+  "base",
+  "distill",
+  "cv",
+  "tabs",
+  "typograms",
+  "font-awesome/fontawesome",
+  "font-awesome/brands",
+  "font-awesome/solid",
+  "font-awesome/regular",
+  "tabler-icons/tabler-icons.scss",
+  "tabler-icons/tabler-icons-filled.scss",
+  "tabler-icons/tabler-icons-outline.scss"
+;
+
+/* Prevent content overflow in distill posts */
+d-article {
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  overflow-x: auto;
+  padding-right: 1rem;
+}
+
+d-code,
+d-figure,
+pre code {
+  overflow-x: auto;
+  display: block;
+  word-break: break-word;
+  max-width: 100%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

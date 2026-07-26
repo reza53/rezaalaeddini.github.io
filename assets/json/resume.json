@@ -1,0 +1,202 @@
+{
+  "basics": {
+    "name": "Reza Alaeddini",
+    "label": "Forensic Biologist",
+    "image": "",
+    "email": "ralaeddini@ysu.edu",
+    "phone": "(330) 941-3572",
+    "url": "https://github.com/reza53/rezaalaeddini.github.io",
+    "summary": "PhD in Molecular Biology with 15 years of experience in the field. Expert in DNA analysis. Strong background in molecular biology and genetics.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "OH 94115",
+      "city": "Youngstown",
+      "countryCode": "US",
+      "region": "Ohio"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Youngstown State University",
+      "position": "Assistant Professor of Forensic Science",
+      "url": "https://YSU.edu",
+      "startDate": "2025-08-18",
+      "endDate": "Ongoing",     
+      "summary": "Teaching Forensic DNA Analysis, Forensic Pathology at Ward Beecher Hall, General Biology 1 at Cushwa Hall and a Forensic Research Course in my Laboratory at Ward Beecher Hall 3041.",
+	  "highlights": ["Forensic DNA Analysis"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Columbia Public Schools",
+      "location": "Columbia, Missouri",
+      "position": "Guest Speaker",
+      "url": "https://www.cpsk12.org",
+      "startDate": "2022-08-01",
+      "endDate": "2025-05-01",
+      "summary": "Forensic Science casual speaker on Crime Scene Investigation and Blood Spatter Analysis.",
+      "highlights": ["Amazed by students' interest in Forensic Science"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Sydney, Australia",
+      "location": "Sydney, Australia",
+      "url": "https://www.Sydney.edu/",
+      "area": "Bio-molecular Science",
+      "studyType": "PhD",
+      "startDate": "2004-03-04",
+      "endDate": "2010-09-15",
+      "score": "10",
+      "courses": ["Human Bone DNA Analysis, Postmortem Age Estimation, Multiplex PCR Design, Quantitative PCR"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Review Paper in Forensic Science in Australia - 2010",
+      "date": "2010-11-01",
+      "awarder": "National Institute of Forensic Science (NIFS)",
+      "url": "https://www.anzpaa.org.au/nifs/forensic-science",
+      "summary": "Paper: Forensic implications of genetic analyses from degraded DNA in Forensic Science International Genetics.'"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Infrared Technology",
+      "date": "2008-08-01",
+      "issuer": "Sydney University",
+      "url": "https://infraredtechnologies.net",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Radioactive Material Handling",
+      "date": "2008-09-01",
+      "issuer": "Sydney University",
+      "url": "https://rso.wsu.edu/rppm/radiation-safety-policies-materials",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Understanding ISO/IEC 17025",
+      "date": "2013-01-01",
+      "issuer": "Tehran University",
+      "url": "https://www.iso.org/ISO-IEC-17025-testing-and-calibration-laboratories.html",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "STRmix Application",
+      "date": "2017-09-01",
+      "issuer": "STRmix California",
+      "url": "https://www.strmix.com",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "YSU IT Security",
+      "date": "2026-06-06",
+      "issuer": "Youngstown State University",
+      "url": "https://ysu.edu",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "CourseLeaf SYL",
+      "date": "2026-06-11",
+      "issuer": "Youngstown State University",
+      "url": "https://ysu.edu",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
+ "publications": [
+    {
+      "name": "Bayesian regression analysis of stutter in DNA mixtures",
+      "publisher": "Communications in Statistics - Theory and Methods",
+      "releaseDate": "2020-01-01",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/03610926.2019.1710760",
+      "summary": "In this paper, a new methodology for stutter modelling is discussed."
+    },
+    {
+      "name": "Development of a Pentanucleotide STR Marker for Human Identity Testing",
+      "publisher": "Journal of Biology and Today’s World",
+      "releaseDate": "2015-01-01",
+      "url": "https://www.iomcworld.org/abstract/development-of-a-pentanucleotide-str-marker-for-humanidentity-testing-3417.html",
+      "summary": "In this paper, a new marker for STR analysis is developed."
+    },
+    {
+      "name": "Forensic implications of PCR inhibition–A review",
+      "publisher": "Forensic Sci Int Genet",
+      "releaseDate": "2012-01-01",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1872497311001797",
+      "summary": "In this paper, several mechanisms of PCR inhibion in Forensic cases is discussed."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Molecular Biology",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "DNA Identification",
+        "Probabilistic Genotyping",
+        "DNA Purification",
+        "DNA Stutter Analysis",
+        "DNA Mixture Deconvolution",
+        "Real-time PCR"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Biology and Medicine",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Molecular Biology",
+        "Forensic Pathology",
+        "Human Pathophysiology",
+        "STR Data Analysis",
+        "Bayesian Statistics",
+        "Multiplex PCR Kits"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor Ali Abbas",
+      "icon": "fa-solid fa-laptop",
+      "url": "https://profiles.sydney.edu.au/ali.abbas",
+      "reference": "Professor Ali Abbas is a global expert in sustainability, waste reduction, and smart engineering systems. He leads research and partnerships as the Associate Dean at the University of Sydney and directs the Waste Transformation Research Hub."
+    },
+    {
+      "name": "Associate Professor Muhammed Yousufuddin",
+      "icon": "fa-solid fa-thumbtack",
+      "url": "https://www.untdallas.edu/employee-directory/_profiles/las/yousufuddin-muhammed.php",
+      "reference": "As the former Director of the Center for Nanostructured Materials at the University of Texas at Arlington, Dr. Yousufuddin moved to UNT Dallas in 2015 to teach chemistry, advise pre-health students, and expand the biology and chemistry programs."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Forensic Science",
+      "summary": "Several undergraduate and Masters size projects are available in my lab. Please refer to the Forensic Projects page.",
+      "highlights": ["Forensic Identification", "Forensic Modeling"],
+      "startDate": "2026-07-25",
+      "endDate": "2028-01-01",
+      "url": "/projects/"
+    }
+  ] 
+}

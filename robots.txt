@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/reza53/rezaalaeddini.github.io/sitemap.xml
+Sitemap: https://rezaalaeddini.github.io/sitemap.xml

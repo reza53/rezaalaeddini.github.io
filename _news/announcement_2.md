@@ -2,9 +2,9 @@
 layout: post
 title: Age Estimation from Crime Scene Samples
 date: 2026-09-07 16:11:00-0400
-inline: true
+inline: false
 related_posts: false
-permalink: /news/announcement_2/   # <-- ADD THIS LINE
+permalink: /news/announcement_2/
 ---
 
 Forensic science has continuously evolved, integrating molecular techniques to enhance criminal investigations. One of the latest advancements is age estimation from biological samples left at crime scenes. This technique leverages DNA methylation analysis, a revolutionary approach that allows forensic experts to estimate the chronological age of an unknown individual based on genetic material found at a crime scene.
@@ -29,6 +29,5 @@ By analyzing methylation patterns at selected CpG loci, forensic scientists can 
 The practical applications of this technology extend beyond criminal investigations. It can assist in identifying disaster victims, resolving immigration cases, and enhancing forensic anthropology research. Despite its promise, challenges such as sample degradation, inter-population differences, and low DNA input requirements remain areas of active research.
 
 > DNA methylation, a natural epigenetic process that alters gene expression, changes predictably with age at specific genomic sites.
-> 
 
-As forensic genetics advances, DNA methylation-based age estimation is set to become a standard tool in forensic casework, providing critical intelligence to law enforcement and reinforcing the pursuit of justice through science. 
+As forensic genetics advances, DNA methylation-based age estimation is set to become a standard tool in forensic casework, providing critical intelligence to law enforcement and reinforcing the pursuit of justice through science.

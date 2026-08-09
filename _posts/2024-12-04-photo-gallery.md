@@ -1,11 +1,17 @@
 ---
 layout: post
-title: <span style="color: #d9534f;">Forensic Newsletters</span>
+title: "Forensic Newsletters"
 date: 2026-08-09 00:00:00
 description: "Access our current and archive editions of forensic science newsletters."
 ---
 
-Welcome to our newsletter archive. Click any edition below to view or download the PDF file directly.
+<style>
+  .post-title {
+    color: #d9534f !important;
+  }
+</style>
+
+Welcome to our newsletter archive. Click any edition below to view or download the PDF file directly
 
 ### Newsletter Archive
 

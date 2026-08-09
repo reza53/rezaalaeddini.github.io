@@ -65,15 +65,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-forensic-newsletters",
       
-        title: "",
+        title: "Forensic Newsletters",
       
-      description: "",
+      description: "Access our current and archive editions of forensic science newsletters.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2026/2024-12-04-photo-gallery/";
+          window.location.href = "/blog/2026/photo-gallery/";
         
       },
     },{id: "post-geometric-reconstruction-of-impact-spatter",
@@ -109,11 +109,11 @@ ninja.data = [{
           window.location.href = "/blog/2026/tabs/";
         
       },
-    },{id: "post-one-moment-please",
+    },{id: "post-beaumont-children-third-excavation-defrosting-cold-cases",
       
-        title: 'One moment, please... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Beaumont Children: Third Excavation - Defrosting Cold Cases <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "",
+      description: "A third and possibly last search for the remains of the missing Beaumont Children will take place February 22, 2025.",
       section: "Posts",
       handler: () => {
         

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Forensic Newsletters"
+title: <span style="color: #d9534f;">Forensic Newsletters</span>
 date: 2026-08-09 00:00:00
 description: "Access our current and archive editions of forensic science newsletters."
 ---

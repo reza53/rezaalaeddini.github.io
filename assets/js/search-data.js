@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-geometric-reconstruction-of-impact-spatter",
+            },{id: "post-forensic-newsletters",
+      
+        title: "Forensic Newsletters",
+      
+      description: "Access our current and archive editions of forensic science newsletters.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/photo-gallery/";
+        
+      },
+    },{id: "post-geometric-reconstruction-of-impact-spatter",
       
         title: "Geometric Reconstruction of Impact Spatter",
       
@@ -98,22 +109,11 @@ ninja.data = [{
           window.location.href = "/blog/2026/tabs/";
         
       },
-    },{id: "post-image-gallery-under-construction",
+    },{id: "post-beaumont-children-third-excavation-defrosting-cold-cases",
       
-        title: "Image gallery under construction",
+        title: 'Beaumont Children: Third Excavation - Defrosting Cold Cases <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "this is what included image galleries could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/photo-gallery/";
-        
-      },
-    },{id: "post-415-unsupported-media-type",
-      
-        title: '415 Unsupported Media Type <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "",
+      description: "A third and possibly last search for the remains of the missing Beaumont Children will take place February 22, 2025.",
       section: "Posts",
       handler: () => {
         

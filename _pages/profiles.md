@@ -22,7 +22,7 @@ profiles:
     content: about_jeremy.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Ward Beecher Hall 3042</p>
+      <p>phone: (330) 941-3572</p>
+      <p>jlovato@student.ysu.edu</p>
 ---
